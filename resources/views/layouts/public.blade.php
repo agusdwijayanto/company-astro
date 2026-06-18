@@ -26,6 +26,8 @@
                     <li class="nav-item"><a class="nav-link" href="/about"><i class="fas fa-info-circle"></i> Tentang</a></li>
                     <li class="nav-item"><a class="nav-link" href="/products"><i class="fas fa-box"></i> Produk</a></li>
                     <li class="nav-item"><a class="nav-link" href="/articles"><i class="fas fa-newspaper"></i> Artikel</a></li>
+                    <!-- GALERI SUDAH DITAMBAHKAN DI SINI -->
+                    <li class="nav-item"><a class="nav-link" href="/gallery"><i class="fas fa-images"></i> Galeri</a></li>
                     <li class="nav-item"><a class="nav-link" href="/contact"><i class="fas fa-envelope"></i> Kontak</a></li>
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-light btn-sm px-3 ms-2" href="/admin/login">
@@ -63,6 +65,7 @@
                         <li><a href="/about">Tentang</a></li>
                         <li><a href="/products">Produk</a></li>
                         <li><a href="/articles">Artikel</a></li>
+                        <li><a href="/gallery">Galeri</a></li>
                         <li><a href="/contact">Kontak</a></li>
                     </ul>
                 </div>
